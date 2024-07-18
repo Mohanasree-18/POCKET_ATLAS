@@ -12,7 +12,7 @@ const PORT = process.env.PORT || 5000;
 const app = express();
 
 //API URL
-const API_URL = "https://v6.exchangerate-api.com/v6/";
+const API_URL = "";
 const API_KEY = process.env.EXCHANGE_RATE_API_KEY;
 
 //!CORS CONFUGURATION
